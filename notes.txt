@@ -1,0 +1,8 @@
+pip install virtualenv - to install virtual enviroment
+virtualenv venv(folder's name)-create virtual enviroment
+venv/scripts/active - to activate virtual enviroment 
+
+What is authenticate method in Django?
+The Django authentication system handles both authentication and authorization. Briefly, authentication verifies a user is who they claim to be, and authorization determines what an authenticated user is allowed to do. Here the term authentication is used to refer to both tasks.
+
+authenticationform - to create login page
